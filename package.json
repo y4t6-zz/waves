@@ -27,6 +27,9 @@
     "redux-promise": "^0.6.0",
     "redux-thunk": "^2.3.0",
     "express": "4.16.3",
-    "express-formidable": "1.0.0"
+    "express-formidable": "1.0.0",
+    "cookie-parser": "1.4.3",
+    "mongoose": "5.1.6",
+    "dotenv": "^6.0.0"
   }
 }
