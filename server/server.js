@@ -195,7 +195,6 @@ app.get('/api/users/logout', auth, (req, res)=>{
 
 
 const port = process.env.PORT || 3002;
-
-app.listen(port, () => {
-    console.log(`Server running at ${port}`)
-});
+app.listen(port,()=>{
+    console.log(`Server Running at ${port}`)
+})
