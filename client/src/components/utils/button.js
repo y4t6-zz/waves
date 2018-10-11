@@ -19,7 +19,6 @@ const MyButton  = (props) => {
                 template='';
         }
 
-
         return template;
     }
 
