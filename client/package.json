@@ -20,7 +20,8 @@
     "react-slick": "0.23.1",
     "redux": "4.0.0",
     "redux-promise": "0.6.0",
-    "redux-thunk": "2.3.0"
+    "redux-thunk": "2.3.0",
+    "@babel/runtime": "7.0.0-beta.42"
   },
   "scripts": {
     "start": "PORT=5000 react-scripts start",
